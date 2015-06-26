@@ -60,35 +60,62 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
   feed     = http://blog.headius.com/feeds/posts/default
   github   = headius
   rubygems = ??
+-->
 
+- @ Richfield, Minnesota
+   - [Charles Nutter](http://blog.headius.com), [:mega:](http://blog.headius.com/feeds/posts/default), [:ocotocat:](https://github.com/headius)
+
+<!--
 [railstips]
   title    = John Nunemaker (Rails Tips) @ South Bend, IN › United States
   link     = http://railstips.org
   feed     = http://feeds.feedburner.com/railstips?format=xml
   github   = jnunemaker
   rubygems = ??
+-->
 
+- @ South Bend, Indiana
+   - [John Nunemaker (Rails Tips)](http://railstips.org), [:mega:](http://feeds.feedburner.com/railstips?format=xml), [:octocat:](https://github.com/jnunemaker)
+
+<!--
 [patshaughnessy]
   title    = Pat Shaughnessy @ Boston, MA › United States
   link     = http://patshaughnessy.net
   feed     = http://feeds.feedburner.com/patshaughnessy?format=xml
   github   = patshaughnessy
   rubygems = ??
+-->
 
+- @ Boston, Massachusetts
+   - [Pat Shaughnessy](http://patshaughnessy.net), [:mega:](http://feeds.feedburner.com/patshaughnessy?format=xml), [:octocat:](https://github.com/patshaughnessy)
+
+<!--
 [technoweenie]
   title    = Rick Olson @ Louisville, CO › United States
   link     = http://techno-weenie.net
   feed     = http://feeds.feedburner.com/TechnoWeenie?format=xml
   github   = technoweenie
   rubygems = ??
+-->
 
+- @ Louisville, Colorado
+   - [Rick Olson](http://techno-weenie.net), [:mega:](http://feeds.feedburner.com/TechnoWeenie?format=xml), [:github:](https://github.com/technoweenie)
+
+
+<!--
 [shvets]
   title    = Alexander Shvets @ Princeton, NJ › United States
   link     = http://shvets.github.io/blog
   feed     = http://shvets.github.io/feed.xml
   github   = shvets
   rubygems = ??
+-->
 
+- @ Princeton, New Jersey
+   - [Alexander Shvets](http://shvets.github.io/blog), [:mega:](http://shvets.github.io/feed.xml), [:github:](https://github.com/shvets)
+
+
+<!--
 [virtuouscode]
   title    = Avdi Grimm (Virtuous Code) @ York, PA › United States
   link     = http://devblog.avdi.org
