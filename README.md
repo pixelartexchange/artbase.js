@@ -1,3 +1,12 @@
+Awesome Series @ Planet Ruby
+
+[Rubies (Virtual Machines, Compilers, ...)](https://github.com/planetruby/awesome-rubies) • 
+[ActiveRecord](https://github.com/planetruby/awesome-activerecord)  •
+[Webframeworks (Micro, Macro, APIs, ...)](https://github.com/planetruby/awesome-webframeworks) •
+[Events (Conferences, Camps, Meetups, ...)](https://github.com/planetruby/awesome-events) •
+[Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
+
+
 # awesome-blogs
 
 A collection of awesome Ruby blogs, podcasts, news sites, etc.
@@ -7,7 +16,7 @@ Note: :gem: stands for the RubyGems page, :octocat: stands for the GitHub page a
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/planetruby/awesome-events). 
+[ANNOUNCEMENT] Looking for an awesome open source news reader in Ruby? See the [Pluto Planet Site Generator](http://feedreader.github.io). 
 
 ---
 
