@@ -37,7 +37,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 -->
 
 - @ Seattle, Washington
-   - [Ryan Davis (Polishing Ruby)](http://blog.zenspider.com), [:mega:](http://blog.zenspider.com/atom.xml), [:octocat:](https://github.com/zenspider) 
+   - [Ryan Davis](http://blog.zenspider.com), [:mega:](http://blog.zenspider.com/atom.xml), [:octocat:](https://github.com/zenspider) - Polishing Ruby
    - [Aaron Patterson](http://tenderlovemaking.com), [:mega:](http://tenderlovemaking.com/atom.xml), [:octocat:](https://github.com/tenderlove)
 
 
@@ -51,7 +51,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 -->
 
 - @ Dallas, Texas
-   -  [Dave Thomas (Pragmatic Programmer)](http://pragdave.me), [:mega:](http://pragdave.me/atom.xml), [:octocat:](https://github.com/pragdave)
+   -  [Dave Thomas](http://pragdave.me), [:mega:](http://pragdave.me/atom.xml), [:octocat:](https://github.com/pragdave) - Pragmatic Programmer
 
 <!--
 [headius]
@@ -63,7 +63,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 -->
 
 - @ Richfield, Minnesota
-   - [Charles Nutter](http://blog.headius.com), [:mega:](http://blog.headius.com/feeds/posts/default), [:ocotocat:](https://github.com/headius)
+   - [Charles Nutter](http://blog.headius.com), [:mega:](http://blog.headius.com/feeds/posts/default), [:octocat:](https://github.com/headius)
 
 <!--
 [railstips]
@@ -75,7 +75,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 -->
 
 - @ South Bend, Indiana
-   - [John Nunemaker (Rails Tips)](http://railstips.org), [:mega:](http://feeds.feedburner.com/railstips?format=xml), [:octocat:](https://github.com/jnunemaker)
+   - [John Nunemaker](http://railstips.org), [:mega:](http://feeds.feedburner.com/railstips?format=xml), [:octocat:](https://github.com/jnunemaker) - Rails Tips
 
 <!--
 [patshaughnessy]
@@ -99,7 +99,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 -->
 
 - @ Louisville, Colorado
-   - [Rick Olson](http://techno-weenie.net), [:mega:](http://feeds.feedburner.com/TechnoWeenie?format=xml), [:github:](https://github.com/technoweenie)
+   - [Rick Olson](http://techno-weenie.net), [:mega:](http://feeds.feedburner.com/TechnoWeenie?format=xml), [:octocat:](https://github.com/technoweenie)
 
 
 <!--
@@ -112,7 +112,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 -->
 
 - @ Princeton, New Jersey
-   - [Alexander Shvets](http://shvets.github.io/blog), [:mega:](http://shvets.github.io/feed.xml), [:github:](https://github.com/shvets)
+   - [Alexander Shvets](http://shvets.github.io/blog), [:mega:](http://shvets.github.io/feed.xml), [:octocat:](https://github.com/shvets)
 
 
 <!--
