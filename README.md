@@ -7,7 +7,7 @@ Awesome Series @ Planet Ruby
 [Blogs (News, Opinions, Podcasts, ...)](https://github.com/planetruby/awesome-blogs)
 
 
-# awesome-blogs
+# Blogs, Podcasts, News Sites
 
 A collection of awesome Ruby blogs, podcasts, news sites, etc.
 
