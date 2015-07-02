@@ -11,17 +11,16 @@ Awesome Series @ Planet Ruby
 
 A collection of awesome Ruby blogs, podcasts, news sites, etc.
 
-
-Note: :gem: stands for the RubyGems page, :octocat: stands for the GitHub page and :mega: stands for the web feed.
-
 ---
 
 [ANNOUNCEMENT] Looking for an awesome open source news reader in Ruby? See the [Pluto Planet Site Generator](http://feedreader.github.io). 
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+
+Note: :gem: stands for the RubyGems page, :octocat: stands for the GitHub page and :mega: stands for the web feed.
 
 ## People
 
