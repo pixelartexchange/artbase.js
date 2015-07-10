@@ -29,6 +29,14 @@ Note: :mega: stands for the web feed.
 
 #### United States (us)
 
+Pacific Northwest •
+Southwest •
+Great Lakes •
+New England •
+Rocky Mountains •
+Mid-Atlantic • 
+
+
 ##### Pacific Northwest
 
 - @ Seattle, Washington
@@ -36,12 +44,18 @@ Note: :mega: stands for the web feed.
    - **Aaron Patterson** (blog: [tenderlovemaking.com](http://tenderlovemaking.com) [:mega:](http://tenderlovemaking.com/atom.xml), github: [tenderlove](https://github.com/tenderlove), gems: [aaronp](https://rubygems.org/profiles/aaronp))
 
 
-###### Southwest
+##### Southwest
+
+- @ Austin, Texas
+   - **Richard Schneeman** (blog: [schneems.com](http://www.schneems.com) [:mega:](http://www.schneems.com/feed.xml), github: [schneems](https://github.com/schneems), gems: [schneems](https://rubygems.org/profiles/schneems)) - #ruby|rails|sinatra|jekyll
 
 - @ Dallas, Texas
-   -  **Dave Thomas** (blog: [pragdave.me](http://pragdave.me) [:mega:](http://pragdave.me/atom.xml), github: [pragdave](https://github.com/pragdave), gems: [??]()) - Pragmatic Programmer
+   - **Dave Thomas** (blog: [pragdave.me](http://pragdave.me) [:mega:](http://pragdave.me/atom.xml), github: [pragdave](https://github.com/pragdave), gems: [??](#)) - Pragmatic Programmer
+   - **Aaron Lasseigne** (blog: [aaronlasseigne.com](http://aaronlasseigne.com) [:mega:](http://aaronlasseigne.com/atom.atom), github: [AaronLasseigne](https://github.com/AaronLasseigne), gems: [??](#)) - #ruby|rails|sinatra|jekyll|activerecord
 
-###### Great Lakes
+
+
+##### Great Lakes
 
 - @ Richfield, Minnesota
    - **Charles Nutter** (blog: [blog.headius.com](http://blog.headius.com)  [:mega:](http://blog.headius.com/feeds/posts/default), github: [headius](https://github.com/headius), gems: [headius](https://rubygems.org/profiles/headius))
@@ -50,58 +64,31 @@ Note: :mega: stands for the web feed.
    - **John Nunemaker** (blog: [railstips.org](http://railstips.org) [:mega:](http://feeds.feedburner.com/railstips?format=xml), github: [jnunemaker](https://github.com/jnunemaker), gems: [jnunemaker](https://rubygems.org/profiles/jnunemaker)) - Rails Tips
 
 
-###### New England
+##### New England
 
 - @ Boston, Massachusetts
-   - **Pat Shaughnessy** (blog: [patshaughnessy.net](http://patshaughnessy.net)  [:mega:](http://feeds.feedburner.com/patshaughnessy?format=xml), github:  [patshaughnessy](https://github.com/patshaughnessy), gems: [??]())
+   - **Pat Shaughnessy** (blog: [patshaughnessy.net](http://patshaughnessy.net)  [:mega:](http://feeds.feedburner.com/patshaughnessy?format=xml), github:  [patshaughnessy](https://github.com/patshaughnessy), gems: [??](#))
 
 
-###### Rocky Mountains
+##### Rocky Mountains
 
 - @ Louisville, Colorado
    - **Rick Olson** (blog: [techno-weenie.net](http://techno-weenie.net) [:mega:](http://feeds.feedburner.com/TechnoWeenie?format=xml), github: [technoweenie](https://github.com/technoweenie), gems: [technoweenie](https://rubygems.org/profiles/technoweenie))
 
 
-
-<!--
-[shvets]
-  title    = Alexander Shvets @ Princeton, NJ › United States
-  link     = http://shvets.github.io/blog
-  feed     = http://shvets.github.io/feed.xml
-  github   = shvets
-  rubygems = ??
--->
+##### Mid-Atlantic
 
 - @ Princeton, New Jersey
-   - [Alexander Shvets](http://shvets.github.io/blog)  [:mega:](http://shvets.github.io/feed.xml), [:octocat:](https://github.com/shvets)
+   - **Alexander Shvets** (blog: [shvets.github.io/blog](http://shvets.github.io/blog)  [:mega:](http://shvets.github.io/feed.xml), github: [shvets](https://github.com/shvets), gems: [??](#))
+
+- @ York, Pennsylvania
+   - **Avdi Grimm** (blog: [devblog.avdi.org](http://devblog.avdi.org) [:mega:](http://feeds.feedburner.com/VirtuousCode), github: [avdi](https://github.com/avdi), gems: [??](#)) - Virtuous Code
+
+<!-- use wordpress feed ? e.g. http://devblog.avdi.org/feed/
+  -->
 
 
 <!--
-[virtuouscode]
-  title    = Avdi Grimm (Virtuous Code) @ York, PA › United States
-  link     = http://devblog.avdi.org
-  feed     = http://feeds.feedburner.com/VirtuousCode
-  github   = avdi
-  rubygems = ??
-## use wordpress feed ? e.g. http://devblog.avdi.org/feed/
-
-[schneems]
-  title    = Richard Schneeman @ Austin, TX › United States
-  link     = http://www.schneems.com 
-  feed     = http://www.schneems.com/feed.xml
-  includes = Ruby|Rails|Sinatra|Jekyll
-  github   = schneems
-  rubygems = ??
-
-
-[aaronlasseigne]
-  title    = Aaron Lasseigne @ Dallas, TX › United States
-  link     = http://aaronlasseigne.com
-  feed     = http://aaronlasseigne.com/atom.atom
-  includes = Ruby|Rails|Sinatra|Jekyll|ActiveRecord
-  github   = AaronLasseigne
-  rubygems = ??
-
 
 [tcopeland]
   title    = Tom Copeland (Junior Developer) @ Herndon, VA › United States
