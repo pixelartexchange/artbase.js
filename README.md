@@ -20,7 +20,8 @@ A collection of awesome Ruby blogs, podcasts, news sites, etc.
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
-Note: :gem: stands for the RubyGems page, :octocat: stands for the GitHub page and :mega: stands for the web feed.
+Note: :mega: stands for the web feed.
+
 
 ## People
 
@@ -28,25 +29,9 @@ Note: :gem: stands for the RubyGems page, :octocat: stands for the GitHub page a
 
 #### United States (us)
 
-<!--
-[zenspider]
-  title    = Ryan Davis (Polishing Ruby) @ Seattle, WA › United States
-  link     = http://blog.zenspider.com
-  feed     = http://blog.zenspider.com/atom.xml
-  github   = zenspider
-  rubygems = ??
-
-[tenderlove]
-  title    = Aaron Patterson @ Seattle, WA › United States
-  link     = http://tenderlovemaking.com
-  feed     = http://tenderlovemaking.com/atom.xml
-  github   = tenderlove
-  rubygems = ??
--->
-
 - @ Seattle, Washington
-   - [Ryan Davis](http://blog.zenspider.com)  [:mega:](http://blog.zenspider.com/atom.xml), [:octocat:](https://github.com/zenspider) - Polishing Ruby
-   - [Aaron Patterson](http://tenderlovemaking.com)  [:mega:](http://tenderlovemaking.com/atom.xml), [:octocat:](https://github.com/tenderlove)
+   - **Ryan Davis** (blog: [blog.zenspider.com](http://blog.zenspider.com) [:mega:](http://blog.zenspider.com/atom.xml), github: [zenspider](https://github.com/zenspider), gems: [zenspider](https://rubygems.org/profiles/zenspider)) - Polishing Ruby
+   - **Aaron Patterson** (blog: [tenderlovemaking.com](http://tenderlovemaking.com) [:mega:](http://tenderlovemaking.com/atom.xml), github: [tenderlove](https://github.com/tenderlove), gems: [aaronp](https://rubygems.org/profiles/aaronp))
 
 
 <!--
