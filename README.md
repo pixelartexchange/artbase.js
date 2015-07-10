@@ -29,70 +29,38 @@ Note: :mega: stands for the web feed.
 
 #### United States (us)
 
+##### Pacific Northwest
+
 - @ Seattle, Washington
    - **Ryan Davis** (blog: [blog.zenspider.com](http://blog.zenspider.com) [:mega:](http://blog.zenspider.com/atom.xml), github: [zenspider](https://github.com/zenspider), gems: [zenspider](https://rubygems.org/profiles/zenspider)) - Polishing Ruby
    - **Aaron Patterson** (blog: [tenderlovemaking.com](http://tenderlovemaking.com) [:mega:](http://tenderlovemaking.com/atom.xml), github: [tenderlove](https://github.com/tenderlove), gems: [aaronp](https://rubygems.org/profiles/aaronp))
 
 
-<!--
-[pragdave]
-  title    = Dave Thomas (Pragmatic Programmer) @ Dallas, TX › United States
-  link     = http://pragdave.me
-  feed     = http://pragdave.me/atom.xml
-  github   = pragdave
-  rubygems = ??
--->
+###### Southwest
 
 - @ Dallas, Texas
-   -  [Dave Thomas](http://pragdave.me)  [:mega:](http://pragdave.me/atom.xml), [:octocat:](https://github.com/pragdave) - Pragmatic Programmer
+   -  **Dave Thomas** (blog: [pragdave.me](http://pragdave.me) [:mega:](http://pragdave.me/atom.xml), github: [pragdave](https://github.com/pragdave), gems: [??]()) - Pragmatic Programmer
 
-<!--
-[headius]
-  title    = Charles Nutter @ Richfield, MN › United States
-  link     = http://blog.headius.com
-  feed     = http://blog.headius.com/feeds/posts/default
-  github   = headius
-  rubygems = ??
--->
+###### Great Lakes
 
 - @ Richfield, Minnesota
-   - [Charles Nutter](http://blog.headius.com)  [:mega:](http://blog.headius.com/feeds/posts/default), [:octocat:](https://github.com/headius)
-
-<!--
-[railstips]
-  title    = John Nunemaker (Rails Tips) @ South Bend, IN › United States
-  link     = http://railstips.org
-  feed     = http://feeds.feedburner.com/railstips?format=xml
-  github   = jnunemaker
-  rubygems = ??
--->
+   - **Charles Nutter** (blog: [blog.headius.com](http://blog.headius.com)  [:mega:](http://blog.headius.com/feeds/posts/default), github: [headius](https://github.com/headius), gems: [headius](https://rubygems.org/profiles/headius))
 
 - @ South Bend, Indiana
-   - [John Nunemaker](http://railstips.org)  [:mega:](http://feeds.feedburner.com/railstips?format=xml), [:octocat:](https://github.com/jnunemaker) - Rails Tips
+   - **John Nunemaker** (blog: [railstips.org](http://railstips.org) [:mega:](http://feeds.feedburner.com/railstips?format=xml), github: [jnunemaker](https://github.com/jnunemaker), gems: [jnunemaker](https://rubygems.org/profiles/jnunemaker)) - Rails Tips
 
-<!--
-[patshaughnessy]
-  title    = Pat Shaughnessy @ Boston, MA › United States
-  link     = http://patshaughnessy.net
-  feed     = http://feeds.feedburner.com/patshaughnessy?format=xml
-  github   = patshaughnessy
-  rubygems = ??
--->
+
+###### New England
 
 - @ Boston, Massachusetts
-   - [Pat Shaughnessy](http://patshaughnessy.net)  [:mega:](http://feeds.feedburner.com/patshaughnessy?format=xml), [:octocat:](https://github.com/patshaughnessy)
+   - **Pat Shaughnessy** (blog: [patshaughnessy.net](http://patshaughnessy.net)  [:mega:](http://feeds.feedburner.com/patshaughnessy?format=xml), github:  [patshaughnessy](https://github.com/patshaughnessy), gems: [??]())
 
-<!--
-[technoweenie]
-  title    = Rick Olson @ Louisville, CO › United States
-  link     = http://techno-weenie.net
-  feed     = http://feeds.feedburner.com/TechnoWeenie?format=xml
-  github   = technoweenie
-  rubygems = ??
--->
+
+###### Rocky Mountains
 
 - @ Louisville, Colorado
-   - [Rick Olson](http://techno-weenie.net)  [:mega:](http://feeds.feedburner.com/TechnoWeenie?format=xml), [:octocat:](https://github.com/technoweenie)
+   - **Rick Olson** (blog: [techno-weenie.net](http://techno-weenie.net) [:mega:](http://feeds.feedburner.com/TechnoWeenie?format=xml), github: [technoweenie](https://github.com/technoweenie), gems: [technoweenie](https://rubygems.org/profiles/technoweenie))
+
 
 
 <!--
