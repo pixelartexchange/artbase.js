@@ -29,12 +29,14 @@ Note: :mega: stands for the web feed.
 
 #### United States (us)
 
-Pacific Northwest •
-Southwest •
-Great Lakes •
-New England •
-Rocky Mountains •
-Mid-Atlantic • 
+[Pacific Northwest](#pacific-northwest) •
+[Southwest](#southwest) •
+[Great Lakes](#great-lakes) •
+[New England](#new-england) •
+[Rocky Mountains](#rocky-mountains) •
+[Mid-Atlantic](#mid-atlantic) • 
+[Capital Region](#capital-region) •
+[South](#south)
 
 
 ##### Pacific Northwest
@@ -42,6 +44,9 @@ Mid-Atlantic •
 - @ Seattle, Washington
    - **Ryan Davis** (blog: [blog.zenspider.com](http://blog.zenspider.com) [:mega:](http://blog.zenspider.com/atom.xml), github: [zenspider](https://github.com/zenspider), gems: [zenspider](https://rubygems.org/profiles/zenspider)) - Polishing Ruby
    - **Aaron Patterson** (blog: [tenderlovemaking.com](http://tenderlovemaking.com) [:mega:](http://tenderlovemaking.com/atom.xml), github: [tenderlove](https://github.com/tenderlove), gems: [aaronp](https://rubygems.org/profiles/aaronp))
+
+- @ Portland, Oregon
+   - **Tim Krajcar** (blog: [timbabwe.com](http://timbabwe.com) [:mega:](http://www.timbabwe.com/atom.xml), github: [tkrajcar](https://github.com/tkrajcar), gems: [??](#)) - #ruby|rails|sinatra|jekyll
 
 
 ##### Southwest
@@ -51,7 +56,7 @@ Mid-Atlantic •
 
 - @ Dallas, Texas
    - **Dave Thomas** (blog: [pragdave.me](http://pragdave.me) [:mega:](http://pragdave.me/atom.xml), github: [pragdave](https://github.com/pragdave), gems: [??](#)) - Pragmatic Programmer
-   - **Aaron Lasseigne** (blog: [aaronlasseigne.com](http://aaronlasseigne.com) [:mega:](http://aaronlasseigne.com/atom.atom), github: [AaronLasseigne](https://github.com/AaronLasseigne), gems: [??](#)) - #ruby|rails|sinatra|jekyll|activerecord
+   - **Aaron Lasseigne** (blog: [aaronlasseigne.com](http://aaronlasseigne.com) [:mega:](http://aaronlasseigne.com/atom.atom), github: [AaronLasseigne](https://github.com/AaronLasseigne), gems: [AaronLasseigne](https://rubygems.org/profiles/AaronLasseigne)) - #ruby|rails|sinatra|jekyll|activerecord
 
 
 
@@ -79,48 +84,31 @@ Mid-Atlantic •
 ##### Mid-Atlantic
 
 - @ Princeton, New Jersey
-   - **Alexander Shvets** (blog: [shvets.github.io/blog](http://shvets.github.io/blog)  [:mega:](http://shvets.github.io/feed.xml), github: [shvets](https://github.com/shvets), gems: [??](#))
+   - **Alexander Shvets** (blog: [shvets.github.io/blog](http://shvets.github.io/blog)  [:mega:](http://shvets.github.io/feed.xml), github: [shvets](https://github.com/shvets), gems: [shvets](https://rubygems.org/profiles/shvets))
 
 - @ York, Pennsylvania
-   - **Avdi Grimm** (blog: [devblog.avdi.org](http://devblog.avdi.org) [:mega:](http://feeds.feedburner.com/VirtuousCode), github: [avdi](https://github.com/avdi), gems: [??](#)) - Virtuous Code
+   - **Avdi Grimm** (blog: [devblog.avdi.org](http://devblog.avdi.org) [:mega:](http://feeds.feedburner.com/VirtuousCode), github: [avdi](https://github.com/avdi), gems: [avdi](https://rubygems.org/profiles/avdi)) - Virtuous Code
 
 <!-- use wordpress feed ? e.g. http://devblog.avdi.org/feed/
   -->
 
 
+##### Capital Region
+
+- @ Herndon, Virginia
+   - **Tom Copeland** (blog: [thomasleecopeland.com](http://thomasleecopeland.com) [:mega:](http://thomasleecopeland.com/rss.xml), github: [tcopeland](https://github.com/tcopeland), gems: [tcopeland](https://rubygems.org/profiles/tcopeland)) - Junior Developer, #ruby|rails|sinatra|jekyll
+
+- @ Washington, D.C.
+   - **David Copeland** (blog: [naildrivin5.com/blog](http://naildrivin5.com/blog) [:mega:](http://naildrivin5.com/atom.xml), github: [davetron5000](https://github.com/davetron5000), gems: [davetron5000](https://rubygems.org/profiles/davetron5000)) - #ruby|rails|sinatra|jekyll|octopress|activerecord|activejob|gli
+
+
+##### South
+
+- @ Raleigh, North Carolina
+   - **Sam Ruby** (blog: [intertwingly.net/blog](http://intertwingly.net/blog) [:mega:](http://intertwingly.net/blog/index.atom), github: [rubys](https://github.com/rubys), gems: [rubys](https://rubygems.org/profiles/rubys)) - #ruby|rails|sinatra|jekyll|wunderbar|opal|ruby2js|nokogumbo|angular.rb
+
+
 <!--
-
-[tcopeland]
-  title    = Tom Copeland (Junior Developer) @ Herndon, VA › United States
-  link     = http://thomasleecopeland.com
-  feed     = http://thomasleecopeland.com/rss.xml
-  includes = Ruby|Rails|Sinatra|Jekyll
-  github   = tcopeland
-  rubygems = ??
-
-[tkrajcar]
-  title    = Tim Krajcar @ Portland, OR › United States
-  link     = http://timbabwe.com
-  feed     = http://www.timbabwe.com/atom.xml
-  includes = Ruby|Rails|Sinatra|Jekyll
-  github   = tkrajcar
-  rubygems = ??
-
-[rubys]
-  title    = Sam Ruby @ Raleigh, NC › United States
-  link     = http://intertwingly.net/blog
-  feed     = http://intertwingly.net/blog/index.atom
-  includes = Ruby|Rails|Sinatra|Jekyll|Wunderbar|Opal|ruby2js|nokogumbo|Angular.rb
-  github   = rubys
-  rubygems = ??
-
-[naildrivin5]
-  title    = David Copeland @ Washington, DC › United States 
-  link     = http://naildrivin5.com/blog
-  feed     = http://naildrivin5.com/atom.xml
-  includes = Ruby|Rails|Sinatra|Jekyll|Octopress|ActiveRecord|ActiveJob|GLI
-  github   = davetron5000
-  rubygems = ??
 
 [graysoftinc]
   title    = James Edward Gray II @ Edmond, OK › United States
