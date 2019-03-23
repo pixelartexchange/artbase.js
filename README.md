@@ -1,7 +1,7 @@
 
 # Safe Math Operations and Types (U8, U16, U32, U64, U256, I8, I16, I32, I64, I256)
 
-safemath gem / library - safe math operations (with overflow 'n' underflow protection) on signed and unsigned integer types (U8, U16, U32, U64, U256, I8, I16, I32, I64, I256)
+safemath gem / library - safe math operations (with overflow 'n' underflow protection) on signed and unsigned integer number types (U8, U16, U32, U64, U256, I8, I16, I32, I64, I256)
 
 * home  :: [github.com/s6ruby/safemath](https://github.com/s6ruby/safemath)
 * bugs  :: [github.com/s6ruby/safemath/issues](https://github.com/s6ruby/safemath/issues)
