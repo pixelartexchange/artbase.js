@@ -57,8 +57,7 @@
 <script>
   document.addEventListener("DOMContentLoaded", async () => {
     const artbase = new Artbase()
-    await artbase.init( { database: "/8bitbase/artbase.db",
-                          imageUrl: "https://github.com/pixelartexchange/artbase.sandbox/tree/master/eightbitme"
+    await artbase.init( { imageUrl: "https://github.com/pixelartexchange/artbase.sandbox/tree/master/eightbitme"
                         })
 
     artbase.next()
