@@ -1,21 +1,51 @@
 
 
+// Load a script from given `url`
+function loadScript(url) {
+  return new Promise(function (resolve, reject) {
+      const script = document.createElement('script');
+      script.src = url;
+
+      script.addEventListener('load', function () {
+          // The script is loaded completely
+          resolve(true);
+      });
+
+      document.head.appendChild(script);
+  });
+}
+
+
+
+
 class Artbase {
 
 
   async init( options={} ) {
 
     const DEFAULTS = {
-      database: "artbase.db"
+      database: "artbase.db",
+      imageUrl: "https://github.com/pixelartexchange/artbase.js",
     };
 
-    let settings = Object.assign( {}, DEFAULTS, options );
+    this.settings = Object.assign( {}, DEFAULTS, options );
+
+    console.log( "options:" );
+    console.log( options );
+    console.log( "settings:" );
+    console.log( this.settings );
+
+    console.log( "fetching sql.js..." );
+    await loadScript( 'https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/sql-wasm.js' );
+    console.log( "done fetching sql.js" );
+
 
     const sqlPromise = initSqlJs({
       locateFile: file => "https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/sql-wasm.wasm"
     });
-    console.log( settings.database );
-    const dataPromise = fetch( settings.database ).then(res => res.arrayBuffer());
+
+
+    const dataPromise = fetch( this.settings.database ).then(res => res.arrayBuffer());
     const [SQL, buf] = await Promise.all([sqlPromise, dataPromise])
     this.db = new SQL.Database(new Uint8Array(buf));
   }
@@ -113,7 +143,7 @@ class Artbase {
         let img = rec.image
 
         return `<div class='item'>
-  <a target="_blank" href="https://cryptopunksnotdead.github.io/pixelart.js/yeoldepunks/">
+  <a target="_blank" href="${this.settings.imageUrl}">
      <img src="${img}">
      </a>
   <table>${table}</table>
