@@ -14,7 +14,7 @@ Try the "serverless" query web page online
 
 
 
-## Making-Of - Yes, You Can - Build Your Own Pudgypunkbase From Zero / Scratch
+## Making-Of - Yes, You Can - Build Your Own Pudgybase From Zero / Scratch
 
 See the artbase script in [**/pudgies**](https://github.com/pixelartexchange/artbase.sandbox/tree/master/pudgies) in the artbase.sandbox for
 the building your own database from zero / scratch.
