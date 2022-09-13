@@ -4,15 +4,15 @@
 
 ## Samples
 
-[**8-Bitbase**](8bitbase) - query 8bit metadata &  24×24px images (8888 max.) via sql & more - all-in-one single-file sqlite database
+[**8-Bitbase**](8bitbase) (8888 max.) - query 8bit metadata & images (24×24px) via sql & more - all-in-one single-file sqlite database
 
-[**Goblinbase**](goblinbase) - query goblin town metadata &  48×48px images (4444 max.) via sql & more - all-in-one single-file sqlite database
+[**Goblinbase**](goblinbase) (4444 max.)  - query goblin town metadata & images (48×48px) via sql & more - all-in-one single-file sqlite database
 
-[**Pudgybase**](pudgybase) - query pudgy (penguin) metadata & 28×28px images (5000 max.) via sql & more - all-in-one single-file sqlite database
+[**Pudgybase**](pudgybase) (5000 max.) - query pudgy (penguin) metadata & images (28×28px) via sql & more - all-in-one single-file sqlite database
 
-[**Pudgypunkbase**](pudgypunkbase) - query pudgy (penguin) punk metadata & 24×24px images (8888 max.) via sql & more - all-in-one single-file sqlite database
+[**Pudgypunkbase**](pudgypunkbase) (8888 max.) - query pudgy (penguin) punk metadata & images (24×24px) via sql & more - all-in-one single-file sqlite database
 
-[**Unemployablebase**](unemployablebase) - query unemployable metadata & 24×24px images (5000 max.) via sql & more - all-in-one single-file sqlite database
+[**Unemployablebase**](unemployablebase) (5000 max.) - query unemployable metadata & images (24×24px) via sql & more - all-in-one single-file sqlite database
 
 
 
