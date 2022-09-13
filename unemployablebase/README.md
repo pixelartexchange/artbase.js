@@ -5,7 +5,7 @@ query unemployable metadata & images via sql & more - all-in-one single-file sql
 
 Try the "serverless" query web page online
 
-- [**pixelartexchange.github.io/artbase.js/unemployable**](https://pixelartexchange.github.io/artbase.js/unemployable/)
+- [**pixelartexchange.github.io/artbase.js/unemployablebase**](https://pixelartexchange.github.io/artbase.js/unemployablebase/)
 
 
 
