@@ -79,7 +79,7 @@ remove the (solid color) background  except for three 1/1 gradient backgrounds f
 
 
 
-## Making-Of - Yes, You Can - Build Your Own Pudgypunkbase From Zero / Scratch
+## Making-Of - Yes, You Can - Build Your Own Moonbirdbase From Zero / Scratch
 
 See the artbase script in [**/moonbirds**](https://github.com/pixelartexchange/moonbirds.sandbox/tree/master/moonbirds) in the artbase.sandbox for
 the building your own database from zero / scratch.
