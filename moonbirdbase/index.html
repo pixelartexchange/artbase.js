@@ -75,9 +75,9 @@
         let val = target.getAttribute('data-val')
         let where = document.querySelector("#where").value
         if (where.trim().length > 0) {
-          document.querySelector("#where").value = `${where} AND\n${key} = '${val}'`
+          document.querySelector("#where").value = `${where} AND\n${key} = "${val}"`
         } else {
-          document.querySelector("#where").value = `${key} = '${val}'`
+          document.querySelector("#where").value = `${key} = "${val}"`
         }
         artbase.next()
       }

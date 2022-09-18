@@ -84,18 +84,18 @@ class Artbase {
   }
 
 
-  _build_records( contents ) {
+  _build_records( result ) {
     let records = []
 
-    if( contents.length !== 0) {
+    if( result.length !== 0) {
       let columns = []
 
-      for(let column of contents[0].columns) {
+      for(let column of result[0].columns) {
         columns.push(column)
       }
 
-      for(let i=0; i<contents[0].values.length; i++) {
-        let values = contents[0].values[i];
+      for(let i=0; i<result[0].values.length; i++) {
+        let values = result[0].values[i];
         let o = { attributes: {} }
         for(let j=0; j<columns.length; j++) {
           let column = columns[j]
@@ -121,8 +121,8 @@ class Artbase {
   // change to update() or such - why? why not?
   next() {
     const sql = this._build_query()
-    const contents = this.db.exec( sql )
-    const records = this._build_records( contents )
+    const result = this.db.exec( sql )
+    const records = this._build_records( result )
 
     let html = ""
     if (records.length === 0) {
@@ -132,9 +132,11 @@ class Artbase {
       html = records.map((rec) => {
         let attributes = rec.attributes
         let keys = Object.keys(attributes)
+        // note: use "" for attribute quotes
+        //         to allow single-quotes in values e.g. Wizard's Hat etc.
         let table = keys.map((key) => {
-          return `<tr class='row' data-key='${key}'
-                                  data-val='${attributes[key]}'>
+          return `<tr class="row" data-key="${key}"
+                                  data-val="${attributes[key]}">
                         <td>${key}</td>
                         <td>${attributes[key]}</td>
                   </tr>`
@@ -142,7 +144,7 @@ class Artbase {
 
         let img = rec.image
 
-        return `<div class='item'>
+        return `<div class="item">
   <a target="_blank" href="${this.settings.imageUrl}">
      <img src="${img}">
      </a>
