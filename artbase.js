@@ -26,6 +26,7 @@ class Artbase {
     const DEFAULTS = {
       database: "artbase.db",
       imageUrl: "https://github.com/pixelartexchange/artbase.js",
+      sqljsBase: "https://pixelartexchange.github.io/artbase.js/sql.js/1.8.0",
     };
 
     this.settings = Object.assign( {}, DEFAULTS, options );
@@ -36,12 +37,12 @@ class Artbase {
     console.log( this.settings );
 
     console.log( "fetching sql.js..." );
-    await loadScript( 'https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/sql-wasm.js' );
+    await loadScript( `${this.settings.sqljsBase}/sql-wasm.js` );
     console.log( "done fetching sql.js" );
 
 
     const sqlPromise = initSqlJs({
-      locateFile: file => "https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/sql-wasm.wasm"
+      locateFile: file => `${this.settings.sqljsBase}/sql-wasm.wasm`
     });
 
 
@@ -116,6 +117,12 @@ class Artbase {
   }
   return records
 }
+
+  // query convenience helper (for testing)
+  //   returns "raw" results as json
+  query( sql ) {
+     return this.db.exec( sql )
+  }
 
 
   // change to update() or such - why? why not?
