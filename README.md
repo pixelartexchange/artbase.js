@@ -40,6 +40,19 @@ $ ruby -run -e httpd . -p 8080
 
 
 
+## Credits - Thank Yous
+
+
+Original idea and (open source) "mixtape.db" scripts  by Skøgard (of Factoria Fame).
+
+See [Moonbirdbase](https://github.com/mixtape-network/moonbirdbase),
+[Mferbase](https://github.com/mixtape-network/mferbase),
+[Creyziebase](https://github.com/mixtape-network/creyziebase), and others.
+
+
+
+
+
 ## Questions? Comments?
 
 Post them on the [D.I.Y. Punk (Pixel) Art reddit](https://old.reddit.com/r/DIYPunkArt). Thanks.
